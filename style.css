@@ -2,8 +2,8 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
-    background-color: #dddddd;
+    width: 230px;
+    background-color:#C17B11;
 }
 
 li a {
@@ -13,7 +13,7 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color on hover */
+
 li a:hover {
     background-color: #555;
     color: Chartreuse;
@@ -25,5 +25,5 @@ h1 {
     color: 1E0E8E;
 }
 p {
-	color: #2BC6B8
+	color: #E03F18
 }
